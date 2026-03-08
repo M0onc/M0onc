@@ -56,6 +56,39 @@ me.say_hi()
 
 </div>
 
+---
+
+## 📦 Featured Repositories
+
+<div align="center">
+
+<!-- Repo Card 1 -->
+<a href="https://github.com/M0onc/RuoYi-Quartz-RCE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M0onc&repo=RuoYi-Quartz-RCE&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" width="400"/>
+</a>
+
+</div>
+
+### 🔍 Repository Details
+
+#### [RuoYi-Quartz-RCE](https://github.com/M0onc/RuoYi-Quartz-RCE)
+> RuoYi Management System Quartz RCE Vulnerability Disclosure
+
+- **Type:** Security Research / Vulnerability Disclosure
+- **Severity:** Critical (CVSS 9.8)
+- **Language:** YAML, Python, Markdown
+- **Contents:**
+  - 📄 Complete vulnerability disclosure (EN/CN)
+  - 🔧 Nuclei detection template
+  - 🐍 Python exploit script
+  - 📊 Technical analysis document
+  - 🛠️ Exploitation guide
+
+[![Stars](https://img.shields.io/github/stars/M0onc/RuoYi-Quartz-RCE?style=flat-square&color=00D4AA)](https://github.com/M0onc/RuoYi-Quartz-RCE/stargazers)
+[![Forks](https://img.shields.io/github/forks/M0onc/RuoYi-Quartz-RCE?style=flat-square&color=00D4AA)](https://github.com/M0onc/RuoYi-Quartz-RCE/network)
+[![Issues](https://img.shields.io/github/issues/M0onc/RuoYi-Quartz-RCE?style=flat-square&color=00D4AA)](https://github.com/M0onc/RuoYi-Quartz-RCE/issues)
+[![License](https://img.shields.io/github/license/M0onc/RuoYi-Quartz-RCE?style=flat-square&color=00D4AA)](https://github.com/M0onc/RuoYi-Quartz-RCE/blob/main/LICENSE)
+
 ### 🎯 Research Focus
 - Web Application Security
 - API Security Testing
