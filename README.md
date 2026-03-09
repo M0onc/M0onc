@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M0onc&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20%7C%20Bug%20Hunter%20%7C%20Developer&descSize=18&descAlignY=55"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Security+Researcher+%F0%9F%94%92;Bug+Bounty+Hunter+%F0%9F%90%9B;Full+Stack+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Security+Researcher+%F0%9F%94%92;Bug+Bounty+Hunter+%F0%9F%90%9B;Full+Stack+Developer++%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=M0onc&label=Profile%20Views&color=00d4aa&style=flat-square" alt="Profile Views"/>
@@ -194,6 +194,20 @@ I'm always interested in collaborating on security research and open source proj
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+
+</div>
+
+---
+
+## 🙏 Acknowledge
+
+<div align="center">
+
+<i>Inspired by:</i><br><br>
+<a href="https://github.com/R4be1">
+  <img src="https://avatars.githubusercontent.com/u/110738599?v=4" width="50" height="50" style="border-radius: 50%;" alt="R4be1"/>
+</a><br>
+<a href="https://github.com/R4be1"><b>R4be1</b></a> — Thanks for the profile inspiration!
 
 </div>
 
