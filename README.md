@@ -11,9 +11,9 @@
 
 <!-- Social Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M0onc)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://)
 
 </div>
 
@@ -36,9 +36,6 @@ me = M0onc()
 me.say_hi()
 ```
 
-- 🔭 **Currently working on:** Web security research and vulnerability analysis
-- 🌱 **Currently learning:** Advanced exploitation techniques and cloud security
-- 👯 **Looking to collaborate on:** Security tools and open source projects
 - 💬 **Ask me about:** Web vulnerabilities, penetration testing, bug bounty
 - ⚡ **Fun fact:** I believe every bug has a story to tell 🐛
 
@@ -191,9 +188,7 @@ me.say_hi()
 
 I'm always interested in collaborating on security research and open source projects. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![WeChat](https://img.shields.io/badge/WeChat-M0on__0x4d-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://)
 
 </div>
 
@@ -203,7 +198,7 @@ I'm always interested in collaborating on security research and open source proj
 
 <div align="center">
 
-<i>Inspired by:</i><br><br>
+<i>知识库大全</i><br><br>
 <a href="https://github.com/R4be1">
   <img src="https://avatars.githubusercontent.com/u/110738599?v=4" width="50" height="50" style="border-radius: 50%;" alt="R4be1"/>
 </a><br>
