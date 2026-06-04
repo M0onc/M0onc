@@ -49,7 +49,7 @@ me.say_hi()
 
 | Vulnerability | Severity | Status |
 |:-------------|:--------:|:------:|
-| [RuoYi Quartz RCE](https://github.com/M0onc/RuoYi-Quartz-RCE) | ![Critical](https://img.shields.io/badge/Critical-FF0000?style=flat-square) | Disclosed |
+| [RuoYi Quartz RCE] | ![Critical](https://img.shields.io/badge/Critical-FF0000?style=flat-square) | Disclosed |
 
 </div>
 
@@ -60,7 +60,7 @@ me.say_hi()
 <div align="center">
 
 <!-- Repo Card 1 -->
-<a href="https://github.com/M0onc/RuoYi-Quartz-RCE">
+
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=M0onc&repo=RuoYi-Quartz-RCE&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" width="400"/>
 </a>
 
