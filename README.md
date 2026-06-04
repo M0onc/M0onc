@@ -68,7 +68,7 @@ me.say_hi()
 
 ### 🔍 Repository Details
 
-#### [RuoYi-Quartz-RCE](https://github.com/M0onc/RuoYi-Quartz-RCE)
+#### [RuoYi-Quartz-RCE]
 > RuoYi Management System Quartz RCE Vulnerability Disclosure
 
 - **Type:** Security Research / Vulnerability Disclosure
@@ -177,7 +177,7 @@ me.say_hi()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RuoYi Quartz RCE 漏洞分析](https://github.com/M0onc/RuoYi-Quartz-RCE)
+- [RuoYi Quartz RCE 漏洞分析]
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -188,7 +188,6 @@ me.say_hi()
 
 I'm always interested in collaborating on security research and open source projects. Feel free to reach out!
 
-[![WeChat](https://img.shields.io/badge/WeChat-M0on__0x4d-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://)
 
 </div>
 
